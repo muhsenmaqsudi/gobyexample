@@ -14,5 +14,6 @@ func main() {
 	// Range()
 	// Functions()
 	// MultiReturnFunction()
-	VariadicFunctions()
+	// VariadicFunctions()
+	Closures()
 }

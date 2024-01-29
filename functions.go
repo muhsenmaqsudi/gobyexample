@@ -48,3 +48,21 @@ func VariadicFunctions() {
 	nums := []int{1, 2, 3, 4}
 	sum(nums...)
 }
+
+func intSeq() func() int {
+	i := 0
+	return func() int {
+		i++
+		return i
+	}
+}
+
+func Closures() {
+	nextInt := intSeq()
+	fmt.Println(nextInt())
+	fmt.Println(nextInt())
+	fmt.Println(nextInt())
+
+	newInts := intSeq()
+	fmt.Println(newInts())
+}
