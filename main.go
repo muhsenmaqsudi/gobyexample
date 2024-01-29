@@ -12,5 +12,6 @@ func main() {
 	// Slices()
 	// Maps()
 	// Range()
-	Functions()
+	// Functions()
+	MultiReturnFunction()
 }

@@ -17,3 +17,16 @@ func Functions() {
 	res = plusPlus(1, 2, 3)
 	fmt.Println("1+2+3 =", res)
 }
+
+func vals() (int, int) {
+	return 3, 7
+}
+
+func MultiReturnFunction() {
+	a, b := vals()
+	fmt.Println(a)
+	fmt.Println(b)
+
+	_, c := vals()
+	fmt.Println(c)
+}
