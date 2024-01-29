@@ -17,5 +17,6 @@ func main() {
 	// VariadicFunctions()
 	// Closures()
 	// Recursive()
-	Pointer()
+	// Pointer()
+	StringRunes()
 }
