@@ -13,5 +13,6 @@ func main() {
 	// Maps()
 	// Range()
 	// Functions()
-	MultiReturnFunction()
+	// MultiReturnFunction()
+	VariadicFunctions()
 }
