@@ -13,14 +13,14 @@ func Arrays() {
 	fmt.Println("len:", len(a))
 
 	b := [5]int{1, 2, 3, 4, 5}
-    fmt.Println("dcl:", b)
+	fmt.Println("dcl:", b)
 
 	var twoD [2][3]int
 	for i := 0; i < 2; i++ {
-        for j := 0; j < 3; j++ {
-            twoD[i][j] = i + j
-        }
-    }
+		for j := 0; j < 3; j++ {
+			twoD[i][j] = i + j
+		}
+	}
 	twoD[1][0] = 10
-    fmt.Println("2d: ", twoD)
+	fmt.Println("2d: ", twoD)
 }

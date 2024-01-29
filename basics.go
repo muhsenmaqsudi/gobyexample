@@ -40,7 +40,6 @@ func Variables() {
 	fmt.Println(g)
 }
 
-
 const s string = "constant"
 
 func Constants() {
