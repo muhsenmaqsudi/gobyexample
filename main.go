@@ -16,5 +16,6 @@ func main() {
 	// MultiReturnFunction()
 	// VariadicFunctions()
 	// Closures()
-	Recursive()
+	// Recursive()
+	Pointer()
 }
