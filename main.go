@@ -11,5 +11,6 @@ func main() {
 	// Arrays()
 	// Slices()
 	// Maps()
-	Range()
+	// Range()
+	Functions()
 }
