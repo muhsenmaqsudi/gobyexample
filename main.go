@@ -10,5 +10,6 @@ func main() {
 	// SwitchCase()
 	// Arrays()
 	// Slices()
-	Maps()
+	// Maps()
+	Range()
 }
