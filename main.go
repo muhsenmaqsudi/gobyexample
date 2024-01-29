@@ -15,5 +15,6 @@ func main() {
 	// Functions()
 	// MultiReturnFunction()
 	// VariadicFunctions()
-	Closures()
+	// Closures()
+	Recursive()
 }
