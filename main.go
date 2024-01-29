@@ -9,5 +9,6 @@ func main() {
 	// IfElse()
 	// SwitchCase()
 	// Arrays()
-	Slices()
+	// Slices()
+	Maps()
 }
