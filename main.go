@@ -18,5 +18,6 @@ func main() {
 	// Closures()
 	// Recursive()
 	// Pointer()
-	StringRunes()
+	// StringRunes()
+	Structs()
 }
