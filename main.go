@@ -21,5 +21,6 @@ func main() {
 	// StringRunes()
 	// Structs()
 	// Methods()
-	Interfaces()
+	// Interfaces()
+	StructEmbedding()
 }
