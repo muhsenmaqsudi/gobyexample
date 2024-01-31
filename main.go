@@ -20,5 +20,6 @@ func main() {
 	// Pointer()
 	// StringRunes()
 	// Structs()
-	Methods()
+	// Methods()
+	Interfaces()
 }
